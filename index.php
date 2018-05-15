@@ -6,6 +6,9 @@
   </head>
   <body>
     <?php
+    echo "<h1>EXERCICE 5 - PHP - Les fonctions</h1><br />";
+
+
     echo "<br />========> Exercice 1 <====== <br /><br />";
 
     function exo1()
